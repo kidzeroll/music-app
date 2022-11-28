@@ -2,7 +2,7 @@
 
 Develop an elegant React.js Music Application.
 
-By [Kidzeroll](https:www.kidzeroll.com)
+By [Kidzeroll](https://www.kidzeroll.com)
 
 ## System Requirements
 
